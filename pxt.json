@@ -1,5 +1,5 @@
 {
-    "name": "AB button",
+    "name": "microbit_NameCard",
     "description": "",
     "dependencies": {
         "core": "*",
